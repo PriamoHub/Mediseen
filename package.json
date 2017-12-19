@@ -1,5 +1,5 @@
 {
-  "name": "pageobjectstemplate",
+  "name": "Mediseen",
   "version": "1.0.0",
   "description": "page objects template to use with nodejs mocha chai and wdio",
   "main": "wdio.conf.js",
@@ -7,11 +7,11 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "wdio"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PriamoHub/pageObjectTemplate.git"
+    "url": ""
   },
   "keywords": [
     "nodejs",
@@ -24,9 +24,9 @@
   "author": "Priamo Ramirez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PriamoHub/pageObjectTemplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/PriamoHub/pageObjectTemplate#readme",
+  "homepage": "",
   "dependencies": {
     "chai": "^4.0.1",
     "chai-webdriverio": "^0.4.2",
